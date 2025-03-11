@@ -1,0 +1,27 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      dotnet: 8.0
+    commands:
+      - echo "Installing dependencies..."
+      - dotnet tool install -g Amazon.Lambda.Tools  # Install Lambda CLI tools
+
+  build:
+    commands:
+      - echo "Restoring dependencies..."
+      - dotnet restore
+      - echo "Building the project..."
+      - dotnet build --configuration Release
+      - echo "Running tests..."
+      - dotnet test --logger "trx;LogFileName=test_results.trx"
+
+  post_build:
+    commands:
+      - echo "Packaging Lambda function..."
+      - dotnet lambda package --configuration Release --output-package build/lambda.zip
+
+artifacts:
+  files:
+    - build/lambda.zip
