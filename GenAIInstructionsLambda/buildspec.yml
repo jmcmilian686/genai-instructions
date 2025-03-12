@@ -27,3 +27,4 @@ artifacts:
   files:
     - deploy-package.zip
     - lambda-template.yml #add the template file to the artifacts.
+  discard-paths: yes
