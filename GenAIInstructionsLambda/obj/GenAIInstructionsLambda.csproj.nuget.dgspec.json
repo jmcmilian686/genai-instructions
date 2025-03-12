@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jmcmi\\Source\\Repos\\GenAIInstructionsLambda\\GenAIInstructionsLambda\\GenAIInstructionsLambda.csproj": {}
+    "C:\\Users\\jmcmi\\Source\\Repos\\jmcmilian686\\genai-instructions\\GenAIInstructionsLambda\\GenAIInstructionsLambda.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jmcmi\\Source\\Repos\\GenAIInstructionsLambda\\GenAIInstructionsLambda\\GenAIInstructionsLambda.csproj": {
+    "C:\\Users\\jmcmi\\Source\\Repos\\jmcmilian686\\genai-instructions\\GenAIInstructionsLambda\\GenAIInstructionsLambda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jmcmi\\Source\\Repos\\GenAIInstructionsLambda\\GenAIInstructionsLambda\\GenAIInstructionsLambda.csproj",
+        "projectUniqueName": "C:\\Users\\jmcmi\\Source\\Repos\\jmcmilian686\\genai-instructions\\GenAIInstructionsLambda\\GenAIInstructionsLambda.csproj",
         "projectName": "GenAIInstructionsLambda",
-        "projectPath": "C:\\Users\\jmcmi\\Source\\Repos\\GenAIInstructionsLambda\\GenAIInstructionsLambda\\GenAIInstructionsLambda.csproj",
+        "projectPath": "C:\\Users\\jmcmi\\Source\\Repos\\jmcmilian686\\genai-instructions\\GenAIInstructionsLambda\\GenAIInstructionsLambda.csproj",
         "packagesPath": "C:\\Users\\jmcmi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jmcmi\\Source\\Repos\\GenAIInstructionsLambda\\GenAIInstructionsLambda\\obj\\",
+        "outputPath": "C:\\Users\\jmcmi\\Source\\Repos\\jmcmilian686\\genai-instructions\\GenAIInstructionsLambda\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

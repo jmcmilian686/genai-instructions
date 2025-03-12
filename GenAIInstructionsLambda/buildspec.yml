@@ -22,7 +22,7 @@ phases:
       - cd GenAIInstructionsLambda
       - dotnet lambda package -c Release -o ../deploy-package.zip
       - aws s3 cp ../deploy-package.zip s3://codepipeline-us-east-2-48698031604/GenAI-Instructions-P/deploy-package.zip
-      - aws s3 cp lambda-template.yml s3://codepipeline-us-east-2-48698031604/GenAI-Instructions-P/BuildArtif/lambda-template.yml #copy the cloudformation template to s3, specifying the object key.
+      - aws s3 cp lambda-template.yml s3://codepipeline-us-east-2-48698031604/GenAI-Instructions-P/lambda-template.yml #copy the cloudformation template to the root of the S3 prefix.
 artifacts:
   files:
     - deploy-package.zip

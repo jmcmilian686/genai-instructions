@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenAIInstructionsLambda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7f807570e1d1ef443886e961d83f8fa39647c47")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e32d8553666f31d7e814d0c13050cde4a390505")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenAIInstructionsLambda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenAIInstructionsLambda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
