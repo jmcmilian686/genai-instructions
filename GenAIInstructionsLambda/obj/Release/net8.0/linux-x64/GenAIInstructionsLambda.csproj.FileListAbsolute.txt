@@ -1,0 +1,17 @@
+C:\Users\jmcmi\Source\Repos\GenAIInstructionsLambda\GenAIInstructionsLambda\bin\Release\net8.0\linux-x64\GenAIInstructionsLambda.deps.json
+C:\Users\jmcmi\Source\Repos\GenAIInstructionsLambda\GenAIInstructionsLambda\bin\Release\net8.0\linux-x64\GenAIInstructionsLambda.runtimeconfig.json
+C:\Users\jmcmi\Source\Repos\GenAIInstructionsLambda\GenAIInstructionsLambda\bin\Release\net8.0\linux-x64\GenAIInstructionsLambda.dll
+C:\Users\jmcmi\Source\Repos\GenAIInstructionsLambda\GenAIInstructionsLambda\bin\Release\net8.0\linux-x64\GenAIInstructionsLambda.pdb
+C:\Users\jmcmi\Source\Repos\GenAIInstructionsLambda\GenAIInstructionsLambda\bin\Release\net8.0\linux-x64\Amazon.Lambda.Core.dll
+C:\Users\jmcmi\Source\Repos\GenAIInstructionsLambda\GenAIInstructionsLambda\bin\Release\net8.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\jmcmi\Source\Repos\GenAIInstructionsLambda\GenAIInstructionsLambda\obj\Release\net8.0\linux-x64\GenAIInstructionsLambda.csproj.AssemblyReference.cache
+C:\Users\jmcmi\Source\Repos\GenAIInstructionsLambda\GenAIInstructionsLambda\obj\Release\net8.0\linux-x64\GenAIInstructionsLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmcmi\Source\Repos\GenAIInstructionsLambda\GenAIInstructionsLambda\obj\Release\net8.0\linux-x64\GenAIInstructionsLambda.AssemblyInfoInputs.cache
+C:\Users\jmcmi\Source\Repos\GenAIInstructionsLambda\GenAIInstructionsLambda\obj\Release\net8.0\linux-x64\GenAIInstructionsLambda.AssemblyInfo.cs
+C:\Users\jmcmi\Source\Repos\GenAIInstructionsLambda\GenAIInstructionsLambda\obj\Release\net8.0\linux-x64\GenAIInstructionsLambda.csproj.CoreCompileInputs.cache
+C:\Users\jmcmi\Source\Repos\GenAIInstructionsLambda\GenAIInstructionsLambda\obj\Release\net8.0\linux-x64\GenAIIns.A45AA883.Up2Date
+C:\Users\jmcmi\Source\Repos\GenAIInstructionsLambda\GenAIInstructionsLambda\obj\Release\net8.0\linux-x64\GenAIInstructionsLambda.dll
+C:\Users\jmcmi\Source\Repos\GenAIInstructionsLambda\GenAIInstructionsLambda\obj\Release\net8.0\linux-x64\refint\GenAIInstructionsLambda.dll
+C:\Users\jmcmi\Source\Repos\GenAIInstructionsLambda\GenAIInstructionsLambda\obj\Release\net8.0\linux-x64\GenAIInstructionsLambda.pdb
+C:\Users\jmcmi\Source\Repos\GenAIInstructionsLambda\GenAIInstructionsLambda\obj\Release\net8.0\linux-x64\GenAIInstructionsLambda.genruntimeconfig.cache
+C:\Users\jmcmi\Source\Repos\GenAIInstructionsLambda\GenAIInstructionsLambda\obj\Release\net8.0\linux-x64\ref\GenAIInstructionsLambda.dll

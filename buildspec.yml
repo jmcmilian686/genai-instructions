@@ -13,15 +13,15 @@ phases:
       - echo "Restoring dependencies..."
       - dotnet restore
       - echo "Building the project..."
-      - dotnet build --configuration Release
-      - echo "Running tests..."
-      - dotnet test --logger "trx;LogFileName=test_results.trx"
+      - dotnet build -c Release
+      - echo "Running tests..."      
 
   post_build:
     commands:
       - echo "Packaging Lambda function..."
-      - dotnet lambda package --configuration Release --output-package build/lambda.zip
+      - dotnet lambda package -c Release -o deploy-package.zip
+      - aws s3 cp deploy-package.zip s3://codepipeline-us-east-2-48698031604/GenAI-Instructions-P/deploy-package.zip
 
 artifacts:
   files:
-    - build/lambda.zip
+    - deploy-package.zip

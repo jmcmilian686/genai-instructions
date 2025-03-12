@@ -1,0 +1,6 @@
+C:\Users\jmcmi\Source\Repos\GenAIInstructionsLambda\GenAIInstructionsLambda\bin\Release\net8.0\publish\GenAIInstructionsLambda.deps.json
+C:\Users\jmcmi\Source\Repos\GenAIInstructionsLambda\GenAIInstructionsLambda\bin\Release\net8.0\publish\GenAIInstructionsLambda.runtimeconfig.json
+C:\Users\jmcmi\Source\Repos\GenAIInstructionsLambda\GenAIInstructionsLambda\bin\Release\net8.0\publish\GenAIInstructionsLambda.pdb
+C:\Users\jmcmi\Source\Repos\GenAIInstructionsLambda\GenAIInstructionsLambda\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\jmcmi\Source\Repos\GenAIInstructionsLambda\GenAIInstructionsLambda\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\jmcmi\Source\Repos\GenAIInstructionsLambda\GenAIInstructionsLambda\bin\Release\net8.0\publish\GenAIInstructionsLambda.dll
