@@ -21,7 +21,7 @@ phases:
       - echo "Packaging Lambda function..."
       - cd GenAIInstructionsLambda
       - dotnet lambda package -c Release -o ../deploy-package.zip
-      - aws s3 cp ../deploy-package.zip s3://codepipeline-us-east-2-48698031604/GenAI-Instructions-P
+      - aws s3 cp ../deploy-package.zip s3://codepipeline-us-east-2-48698031604/GenAI-Instructions-P/
 
 artifacts:
   files:
