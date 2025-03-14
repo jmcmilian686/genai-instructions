@@ -23,7 +23,7 @@ public class Function
     /// <returns></returns>
     public string FunctionHandler(Input input, ILambdaContext context)
     {
-        string serialized = JsonSerializer.Serialize(input);
-        return ("Hello From Lambda: " + serialized);
+        //var serialized = JsonSerializer.Serialize<Input>(input);
+        return ("Hello From Lambda: " + input.Property1 + " "+ input.Property2.ToString());
     }
 }
